@@ -1,4 +1,2 @@
 # MyTestProject
-readme.
-changed
 
